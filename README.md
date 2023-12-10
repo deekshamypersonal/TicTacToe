@@ -6,7 +6,8 @@ The project follows Object-Oriented Programming (OOP) principles and specificall
 
 UML Diagram:
 
-<img width="389" alt="TicTacToe_UML" src="https://github.com/deekshamypersonal/TicTacToe/assets/150110347/32bace63-1316-41e9-97c4-8e0c902ba759">
+
+<img width="388" alt="UML_TicTacToe" src="https://github.com/deekshamypersonal/TicTacToe/assets/150110347/64ddd7af-7da9-47e5-9f28-293e461e77ea">
 
 
 
